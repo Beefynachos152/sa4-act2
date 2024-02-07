@@ -3,5 +3,5 @@ def check_palindrome(text):
         print(f"{text} is a palindrome")
     else:
         print(f"{text} is not a palindrome")
-text = input("Enter text to check for palindrome: ")
+text = "did"
 check_palindrome(text)
